@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#btn {
+    background-color: rgb(101, 53, 184);
+    color: azure;
+    padding: 10px 12px;
+    width: max-content;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto; 
+    margin-top: 10px;
+    
+}
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #6c89c4;
+    margin-bottom: 20px;
+}
+.con p{
+    color: antiquewhite;
+}
+.section{
+    margin-top: 80px;
+}
+.con {
+    
+    text-align: center;
+    padding: 30px;
+    background: linear-gradient(to right,#3C5A7C,#121B2C);
+    width: 1300px;
+    height: 400px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+  
+    
+}
+.author {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #fff;
+}
+
+.author h2 {
+    font-size: 3rem;
+    color:transparent;
+   -webkit-text-stroke: 2PX black;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+   
+}
